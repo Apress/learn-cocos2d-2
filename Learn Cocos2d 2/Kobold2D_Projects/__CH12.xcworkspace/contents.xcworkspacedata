@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:_CH12_PhysicsChipmunk01/_CH12_PhysicsChipmunk01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH12_PhysicsBox2D01/_CH12_PhysicsBox2D01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:__Kobold2D__/Kobold2D-Libraries.xcodeproj">
+   </FileRef>
+</Workspace>

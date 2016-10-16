@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:_CH08_ShootEmUp01/_CH08_ShootEmUp01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH08_ShootEmUp02/_CH08_ShootEmUp02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH08_ShootEmUp03/_CH08_ShootEmUp03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:__Kobold2D__/Kobold2D-Libraries.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:_CH04_DoodleDrop01/_CH04_DoodleDrop01.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH04_DoodleDrop02/_CH04_DoodleDrop02.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH04_DoodleDrop03/_CH04_DoodleDrop03.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH04_DoodleDrop04/_CH04_DoodleDrop04.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:_CH04_DoodleDrop05/_CH04_DoodleDrop05.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:__Kobold2D__/Kobold2D-Libraries.xcodeproj">
+   </FileRef>
+</Workspace>
